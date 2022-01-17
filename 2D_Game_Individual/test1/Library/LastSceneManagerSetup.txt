@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/tdphu/OneDrive/Desktop/cs583/3D Final/cs583s21_g_03_proj_03/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

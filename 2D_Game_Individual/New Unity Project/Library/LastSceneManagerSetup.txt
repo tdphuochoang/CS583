@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/tdphu/AppData/Local/Temp/Temp1_Cube Fall Project (1).zip/Cube Fall/Assets/Scenes/Gameplay.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
