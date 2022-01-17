@@ -1,0 +1,7 @@
+The canon will be adjusted using the four arrow keys on the keyboard.
+
+To shoot, hit the 'Space' on the keyboard.
+
+Try to destroy as many boxes as possible to complete the level.
+
+For every 1000 points you get 2 cannon balls.
